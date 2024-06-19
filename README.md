@@ -14,10 +14,10 @@ Breadboard (optional)
 Power Supply (e.g., 9V battery or USB)
 
 <h2>Wiring Diagram</h2>
-![lolipop](https://github.com/RanasingheDD/Arduino_cute_robot/assets/162302275/40ef06f3-45c6-4dd3-8e60-e8f752391cca)
+https://github.com/RanasingheDD/Arduino_cute_robot/assets/162302275/40ef06f3-45c6-4dd3-8e60-e8f752391cca
 
 <h2>Screenshots</h2>
-![IMG_25670619_214348](https://github.com/RanasingheDD/Arduino_cute_robot/assets/162302275/9ccaf4ed-d09d-4a83-a42c-b297127685ff)
+https://github.com/RanasingheDD/Arduino_cute_robot/assets/162302275/9ccaf4ed-d09d-4a83-a42c-b297127685ff
 
 <h2>License</h2>
 This project is licensed under the MIT License. See the LICENSE file for more details.
