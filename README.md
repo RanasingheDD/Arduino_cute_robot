@@ -18,7 +18,7 @@ https://github.com/RanasingheDD/Arduino_cute_robot/blob/main/wiring.PNG
 
 
 <h2>Screenshots</h2>
-![test](https://github.com/RanasingheDD/Arduino_cute_robot/blob/main/lolipop.jpg)
+https://github.com/RanasingheDD/Arduino_cute_robot/blob/main/lolipop.jpg
 
 <h2>License</h2>
 This project is licensed under the MIT License. See the LICENSE file for more details.
