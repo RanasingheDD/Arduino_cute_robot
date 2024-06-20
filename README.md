@@ -14,7 +14,7 @@ Breadboard (optional)
 Power Supply (e.g., 9V battery or USB)
 
 <h2>Wiring Diagram</h2>
-https://github.com/RanasingheDD/Arduino_cute_robot/blob/main/wiring.PNG
+![image1](wiring.PNG)
 
 
 <h2>Screenshots</h2>
