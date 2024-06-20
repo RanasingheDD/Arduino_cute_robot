@@ -18,7 +18,7 @@ Power Supply (e.g., 9V battery or USB)
 
 
 ## Screenshots
-![Screenshot 1](assets/lolipop.png)
+![Screenshot 1](assets/lolipop.jpg)
 
 <h2>License</h2>
 This project is licensed under the MIT License. See the LICENSE file for more details.
