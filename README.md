@@ -13,8 +13,8 @@ Jumper Wires
 Breadboard (optional)
 Power Supply (e.g., 9V battery or USB)
 
-<h2>Wiring Diagram</h2>
-![image1](wiring.PNG)
+## Wiring Diagram
+![Screenshot 1](assets/wiring.PNG)
 
 
 <h2>Screenshots</h2>
