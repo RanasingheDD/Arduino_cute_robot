@@ -17,8 +17,8 @@ Power Supply (e.g., 9V battery or USB)
 ![Screenshot 1](assets/wiring.PNG)
 
 
-<h2>Screenshots</h2>
-https://github.com/RanasingheDD/Arduino_cute_robot/blob/main/lolipop.jpg
+## Screenshots
+![Screenshot 1](assets/lolipop.png)
 
 <h2>License</h2>
 This project is licensed under the MIT License. See the LICENSE file for more details.
